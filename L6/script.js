@@ -9,4 +9,4 @@ const promise1=new Promise((resolve,reject)=>{
     }else{
         reject("Failed");
     }
-}
+});
